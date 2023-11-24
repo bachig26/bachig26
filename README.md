@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> Hello, I'm Bharathi. </h1>
-
-<p align='center'> 
-![bachig26 Github Stats](https://github-stats-alpha.vercel.app/api?username=bachig26)
-</p>
+ 
+![bachig26 Github Stats](https://github-stats-alpha.vercel.app/api?username=bachig26&cc=000&tc=fff&ic=fff&bc=000)
