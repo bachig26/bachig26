@@ -1,6 +1,6 @@
 {
-  "name": "LiveContainer Nightly",
-  "identifier": "com.livecontainer.source",
+  "name": "LiveContainer (Beta)",
+  "identifier": "com.livecontainer-beta.source",
   "website": "https://github.com/hugeBlack/LiveContainer",
   "subtitle": "LiveContainer nightly Altstore source.",
   "description": "This is the nightly Altstore source for hugeblack's LiveContainer.\n\n Run iOS app without actually installing it!",
