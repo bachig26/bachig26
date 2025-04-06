@@ -34,7 +34,7 @@
           "com.apple.security.network.client"
         ],
         "privacy": {
-          "NSCameraUsageDescription": "Sora may requires access to your device&apos;s camera."
+          "NSCameraUsageDescription": "Sora may require access to your device camera."
         }
       },
       "versions": [
