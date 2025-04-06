@@ -1,0 +1,51 @@
+{
+  "name": "Sora (Beta)",
+  "identifier": "me.cranci.sulfur",
+  "website": "https://github.com/cranci1/Sora",
+  "subtitle": "Sora Altstore source.",
+  "description": "This is the Altstore source for Sora.",
+  "tintColor": "#0784FC",
+  "iconURL": "https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/assets/banner2.png",
+  "apps": [
+    {
+      "beta": true,
+      "name": "Sora",
+      "bundleIdentifier": "me.cranci.sulfur",
+      "developerName": "cranci1",
+      "subtitle": "An iOS and macOS modular web scraping app, under the GPLv3.0 License.",
+      "version": "0.2.1",
+      "versionDate": "2025-04-05",
+      "versionDescription": "Commit: https://github.com/cranci1/Sora/commit/7fb6d2d92e73f4525dfc8972e28015f1aac459b7\r\nUpdates:\r\nMulti server support\r\nfixed module refresh crash\r\nfixed episode cell crash\r\nfixed previous episode marking crash",
+      "downloadURL": "https://github.com/bachig26/bachig26/raw/refs/heads/main/Sulfur_commit-7fb6d2d.ipa",
+      "localizedDescription": "An iOS and macOS modular web scraping app.",
+      "iconURL": "https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/assets/banner2.png",
+      "tintColor": "#0784FC",
+      "category": "utilities",
+      "size": 3146175,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/assets/screenshots/ios-1.png",
+	"https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/assets/screenshots/ios-2.png",
+	"https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/assets/screenshots/ios-3.png",
+	"https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/assets/screenshots/ios-4.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.app-sandbox",
+          "com.apple.security.network.client"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Sora may requires access to your device&apos;s camera."
+        }
+      },
+      "versions": [
+        {
+          "version": "0.2.1",
+          "date": "2025-04-05",
+          "localizedDescription": "Updates:\r\nMulti server support\r\nfixed module refresh crash\r\nfixed episode cell crash\r\nfixed previous episode marking crash"
+          "downloadURL": "https://github.com/bachig26/bachig26/raw/refs/heads/main/Sulfur_commit-7fb6d2d.ipa",
+          "size": 3146175
+        }
+      ]
+    }
+  ]
+}
