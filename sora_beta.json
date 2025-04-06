@@ -41,7 +41,7 @@
         {
           "version": "0.2.1",
           "date": "2025-04-05",
-          "localizedDescription": "Updates:\r\nMulti server support\r\nfixed module refresh crash\r\nfixed episode cell crash\r\nfixed previous episode marking crash"
+          "localizedDescription": "Commit: https://github.com/cranci1/Sora/commit/7fb6d2d92e73f4525dfc8972e28015f1aac459b7\r\nUpdates:\r\nMulti server support\r\nfixed module refresh crash\r\nfixed episode cell crash\r\nfixed previous episode marking crash",
           "downloadURL": "https://github.com/bachig26/bachig26/raw/refs/heads/main/Sulfur_commit-7fb6d2d.ipa",
           "size": 3146175
         }
