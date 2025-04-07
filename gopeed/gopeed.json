@@ -1,0 +1,48 @@
+{
+  "name": "Gopeed",
+  "identifier": "com.gopeed.gopeed",
+  "website": "https://gopeed.com",
+  "subtitle": "Gopeed Altstore source.",
+  "description": "This is the Altstore source for Gopeed.",
+  "tintColor": "#5DC76C",
+  "iconURL": "https://raw.githubusercontent.com/GopeedLab/gopeed/refs/heads/main/ui/flutter/assets/icon/icon_512.png",
+  "apps": [
+    {
+      "beta": false,
+      "name": "Gopeed",
+      "bundleIdentifier": "com.gopeed.gopeed",
+      "developerName": "GopeedLab",
+      "subtitle": "A modern download manager",
+      "version": "1.6.11",
+      "versionDate": "2025-03-14",
+      "versionDescription": "Features:\r\n- feat: web http file server caching and gzip support\r\n- feat: auto updater\r\n- feat: improve http download retry strategy\r\n\nBug Fixes:\r\n- fix: http download size exceeds file size\r\n- fix: web auth priority when api token and basic auth coexist\r\n- fix: can not open url encode torrent file path\r\n- fix: path url encode filename parse\r\n- fix: windows title bar theme switch",
+      "downloadURL": "https://github.com/GopeedLab/gopeed/releases/download/v1.6.11/Gopeed-v1.6.11-ios.ipa",
+      "localizedDescription": "A modern download manager that supports (HTTP, BitTorrent, Magnet) protocol. Built with Golang and Flutter.",
+      "iconURL": "https://raw.githubusercontent.com/GopeedLab/gopeed/refs/heads/main/ui/flutter/assets/icon/icon_512.png",
+      "tintColor": "#5DC76C",
+      "category": "utilities",
+      "size": 3146175,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/GopeedLab/gopeed/refs/heads/main/_docs/img/banner.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "group.com.gopeed.gopeed"
+        ],
+        "privacy": {
+          "LSRequiresIPhoneOS": "The guest app is requesting for this permission."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.6.11",
+          "date": "2025-03-14",
+          "localizedDescription": "Features:\r\n- feat: web http file server caching and gzip support\r\n- feat: auto updater\r\n- feat: improve http download retry strategy\r\n\nBug Fixes:\r\n- fix: http download size exceeds file size\r\n- fix: web auth priority when api token and basic auth coexist\r\n- fix: can not open url encode torrent file path\r\n- fix: path url encode filename parse\r\n- fix: windows title bar theme switch",
+          "downloadURL": "https://github.com/GopeedLab/gopeed/releases/download/v1.6.11/Gopeed-v1.6.11-ios.ipa",
+          "size": 3146175
+        }
+      ]
+    }
+  ]
+}
