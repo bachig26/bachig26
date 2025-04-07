@@ -4,8 +4,8 @@
   "website": "https://github.com/cranci1/Sora",
   "subtitle": "Sora Altstore source.",
   "description": "This is the Altstore source for Sora beta.",
-  "tintColor": "#0784FC",
-  "iconURL": "https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/assets/banner2.png",
+  "tintColor": "#E5620F",
+  "iconURL": "https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/Sora/Assets.xcassets/AppIcon.appiconset/1024.png",
   "apps": [
     {
       "beta": true,
@@ -18,8 +18,8 @@
       "versionDescription": "**Commit - 1f3ea9c**\r\n###Changes:\r\n- bug fixes + optimization buffer indicator\r\n- snappier pause unpause buttons (animations are the same)\r\n- buffer indicator and bar fixes\r\n- player optmizations\r\n- beautiful title text in the player",
       "downloadURL": "https://github.com/bachig26/bachig26/raw/refs/heads/main/Sulfur_commit-1f3ea9c.ipa",
       "localizedDescription": "An iOS and macOS modular web scraping app, under the GPLv3.0 License.",
-      "iconURL": "https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/assets/banner2.png",
-      "tintColor": "#0784FC",
+      "iconURL": "https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/Sora/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "tintColor": "#E5620F",
       "category": "utilities",
       "size": 3146175,
       "screenshotURLs": [
