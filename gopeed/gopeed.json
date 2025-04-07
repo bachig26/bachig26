@@ -31,7 +31,8 @@
           "group.com.gopeed.gopeed"
         ],
         "privacy": {
-          "LSRequiresIPhoneOS": "The guest app is requesting for this permission."
+          "LSRequiresIPhoneOS": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission."
         }
       },
       "versions": [
