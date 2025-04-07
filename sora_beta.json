@@ -13,7 +13,7 @@
       "bundleIdentifier": "me.cranci.sulfur",
       "developerName": "cranci1",
       "subtitle": "An iOS and macOS modular web scraping app.",
-      "version": "0.2.1",
+      "version": "0.2.1-1f3ea9c",
       "versionDate": "2025-04-07",
       "versionDescription": "Commit: https://github.com/cranci1/Sora/commit/1f3ea9c2672d7294afac2f7b8bb3aea684537f5c\r\nUpdates:\r\nbug fixes + optimization buffer indicator\r\nsnappier pause unpause buttons (animations are the same)\r\nbuffer indicator and bar fixes\r\nplayer optmizations\r\nbeautiful title text in the player",
       "downloadURL": "https://github.com/bachig26/bachig26/raw/refs/heads/main/Sulfur_commit-1f3ea9c.ipa",
@@ -39,7 +39,7 @@
       },
       "versions": [
         {
-          "version": "0.2.1",
+          "version": "0.2.1-1f3ea9c",
           "date": "2025-04-07",
           "localizedDescription": "Commit: https://github.com/cranci1/Sora/commit/1f3ea9c2672d7294afac2f7b8bb3aea684537f5c\r\nUpdates:\r\nbug fixes + optimization buffer indicator\r\nsnappier pause unpause buttons (animations are the same)\r\nbuffer indicator and bar fixes\r\nplayer optmizations\r\nbeautiful title text in the player",
           "downloadURL": "https://github.com/bachig26/bachig26/raw/refs/heads/main/Sulfur_commit-1f3ea9c.ipa",
