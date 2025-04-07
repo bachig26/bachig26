@@ -3,7 +3,7 @@
   "identifier": "me.cranci.sulfur",
   "website": "https://github.com/cranci1/Sora",
   "subtitle": "Sora Altstore source.",
-  "description": "This is the Altstore source for Sora.",
+  "description": "This is the Altstore source for Sora beta.",
   "tintColor": "#0784FC",
   "iconURL": "https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/assets/banner2.png",
   "apps": [
