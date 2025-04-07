@@ -13,9 +13,9 @@
       "bundleIdentifier": "me.cranci.sulfur",
       "developerName": "cranci1",
       "subtitle": "An iOS and macOS modular web scraping app.",
-      "version": "0.2.1-1f3ea9c",
+      "version": "0.2.1",
       "versionDate": "2025-04-07",
-      "versionDescription": "Changes:\r\nbug fixes + optimization buffer indicator\r\nsnappier pause unpause buttons (animations are the same)\r\nbuffer indicator and bar fixes\r\nplayer optmizations\r\nbeautiful title text in the player",
+      "versionDescription": "*Commit - 1f3ea9c*\r\nChanges:\r\nbug fixes + optimization buffer indicator\r\nsnappier pause unpause buttons (animations are the same)\r\nbuffer indicator and bar fixes\r\nplayer optmizations\r\nbeautiful title text in the player",
       "downloadURL": "https://github.com/bachig26/bachig26/raw/refs/heads/main/Sulfur_commit-1f3ea9c.ipa",
       "localizedDescription": "An iOS and macOS modular web scraping app, under the GPLv3.0 License.",
       "iconURL": "https://raw.githubusercontent.com/cranci1/Sora/refs/heads/dev/assets/banner2.png",
@@ -39,9 +39,9 @@
       },
       "versions": [
         {
-          "version": "0.2.1-1f3ea9c",
+          "version": "0.2.1",
           "date": "2025-04-07",
-          "localizedDescription": "Changes:\r\nbug fixes + optimization buffer indicator\r\nsnappier pause unpause buttons (animations are the same)\r\nbuffer indicator and bar fixes\r\nplayer optmizations\r\nbeautiful title text in the player",
+          "localizedDescription": "*Commit - 1f3ea9c*\r\nChanges:\r\nbug fixes + optimization buffer indicator\r\nsnappier pause unpause buttons (animations are the same)\r\nbuffer indicator and bar fixes\r\nplayer optmizations\r\nbeautiful title text in the player",
           "downloadURL": "https://github.com/bachig26/bachig26/raw/refs/heads/main/Sulfur_commit-1f3ea9c.ipa",
           "size": 3146175
         }
